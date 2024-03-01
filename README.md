@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm RIFKY</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/8Eyl2xr209oAAAAM/dead.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/08/d1/55/08d155a281daed90ade06e0ded39899b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifkyyasa&label=Profile%20views&color=0e75b6&style=flat" alt="rifkyyasa" /> </p>
 
