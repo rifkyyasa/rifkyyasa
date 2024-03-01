@@ -10,7 +10,7 @@
 <h1 align="center">Hi 👋, I'm RIFKY</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="right" alt="coding" width="400" src="hhttps://i.pinimg.com/originals/f2/95/8a/f2958a889d9a74c01d645dbc0d8bedbd.gif">
+<img align="right" alt="coding" width="400" src="https://colinbendell.cloudinary.com/image/upload/c_crop,f_auto,g_auto,h_350,w_400/v1512090971/Wizard-Clap-by-Markus-Magnusson.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifkyyasa&label=Profile%20views&color=0e75b6&style=flat" alt="rifkyyasa" /> </p>
 
